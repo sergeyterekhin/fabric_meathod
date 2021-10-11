@@ -1,0 +1,14 @@
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.exe
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.deps.json
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.json
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.dev.json
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.dll
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\bin\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.csprojAssemblyReference.cache
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.AssemblyInfoInputs.cache
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.AssemblyInfo.cs
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.csproj.CoreCompileInputs.cache
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.dll
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\Dhesaw\Desktop\C#\laba4\laba4\obj\Debug\netcoreapp3.1\laba4.genruntimeconfig.cache

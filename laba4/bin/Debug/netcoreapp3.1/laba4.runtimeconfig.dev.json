@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dhesaw\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dhesaw\\.nuget\\packages"
+    ]
+  }
+}

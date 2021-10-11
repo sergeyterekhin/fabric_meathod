@@ -1,0 +1,16 @@
+student.1.Serg Terekhin.1,2,5
+student.2.Danil Golovin.3,1,4
+student.3.Roman Rojnov.4,1,3
+student.4.Vovan Putin .1,5
+student.5.Nikita palov.3
+teacher.1.Ivan Ivanovich.1,4.2
+teacher.2.Petr Vasilevich.3,4.4
+teacher.3.Andrey Olegovich.1,2.6
+teacher.4.Alexandra Padlovna.5,1.2
+teacher.5.papa domanovicher.2,3.6
+course.1.Java.4,3,1.4!3!2!1
+course.2.Pascal.5,4,3,1.1
+course.3.Delphi.5,2.3!5
+course.4.Python.1,2.2!3!5
+course.5.Laravel.4.5!4
+course.6.Pisalka.1,3.3!4

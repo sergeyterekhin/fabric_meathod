@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KxgZBkOYnPEDwdJhzE1ycRbCRe87q1ScM0BplgH73YDXUuhPbwdLMM5jQf68ARRcs/UzdVG6/VFnt76C9t45A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dhesaw\\Desktop\\C#\\laba4\\laba4\\laba4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhesaw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
